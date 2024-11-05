@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://opaqueyo.github.io/Aap/sitemap_index.txt
+Sitemap: https://opaqueyo.github.io/Buf/sitemap_index.txt
+Sitemap: https://opaqueyo.github.io/ELi/sitemap_index.txt
+Sitemap: https://opaqueyo.github.io/jti/sitemap_index.txt
